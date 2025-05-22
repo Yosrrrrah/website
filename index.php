@@ -2,7 +2,7 @@
 session_start();
 
 try {
-    $conn = new mysqli("localhost", "root", "amine", "molka");
+    $conn = new mysqli("localhost", "root", "", "manel");
     if ($conn->connect_error) {
         throw new Exception("Connection failed: " . $conn->connect_error);
     }

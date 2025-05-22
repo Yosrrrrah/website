@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // Connexion à la base de données
-$conn = new mysqli("localhost", "root", "amine", "molka");
+$conn = new mysqli("localhost", "root", "", "manel");
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }

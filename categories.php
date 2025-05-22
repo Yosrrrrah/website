@@ -1,6 +1,6 @@
 <?php
 session_start();
-$conn = new mysqli("localhost", "root", "amine", "molka");
+$conn = new mysqli("localhost", "root", "", "manel");
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
