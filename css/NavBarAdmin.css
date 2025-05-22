@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #343a40; /* Fond noir */
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: white; /* Texte en blanc */
+}
+
+.navbar .nav-link:hover {
+    color: #ddd; /* Couleur du texte au survol */
+}
