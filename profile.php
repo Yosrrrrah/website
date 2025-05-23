@@ -90,7 +90,7 @@ $conn->close();
     </div>
 
     <footer class="bg-dark text-white text-center py-3 mt-4">
-        <p>&copy; 2023 Gaming Store. Tous droits réservés.</p>
+        <p>&copy; 2025 Gaming Store. Tous droits réservés.</p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

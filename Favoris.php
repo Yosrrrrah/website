@@ -98,7 +98,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['remove_id'])) {
     </main>
 
     <footer class="bg-dark text-white text-center py-3">
-        <p>&copy; 2023 Gaming Store. Tous droits réservés.</p>
+        <p>&copy; 2025 Gaming Store. Tous droits réservés.</p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
